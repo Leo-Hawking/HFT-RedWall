@@ -1,0 +1,1318 @@
+[
+    {
+        "aid": "2247504904_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 4,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504904,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGl9ib8aqEZFH3HtFee35dv4vT4ficgbwbtzG9lVcNdNspwelicM5HjXGqQ2Fj6eYib07l7E4IgQsFSB5w/0?wx_fmt=jpeg",
+        "create_time": 1727098288,
+        "digest": "若资金利率持续与短期国债利率背离，而短期国债的主要购买方只有央行和大行，那么以短期国债利率为锚品种的利率下行空间可能会因此受阻",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504904&idx=1&sn=5582f41e51296874dcebce328456260d&chksm=fdbced26cacb6430702d1eb430085a1c7c579d488a8752c90e53f22ab3e3f7128efb731d2b4c#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 债市以何为「锚」？",
+        "update_time": 1727098288
+    },
+    {
+        "aid": "2247504883_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 4,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504883,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGk7vJXjKsIOtOFDIdzGLXmOsRI2jmAHp8GicW2aicN8KOgLlkgfQaS4OvvTsrrMUibXD7FlLSlnJxqwg/0?wx_fmt=jpeg",
+        "create_time": 1726665564,
+        "digest": "债市胜率仍高而赔率有所下降",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504883&idx=1&sn=08cd1d3d1d3e43492549538527c5ec40&chksm=fdbceaddcacb63cb974be844beeb6ed6aa078bd814233e67360576de74fc09acb68829cfed23#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 债市是否透支资金面乐观预期",
+        "update_time": 1726665564
+    },
+    {
+        "aid": "2247504862_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 4,
+                "title": "债市周观察"
+            },
+            {
+                "album_id": 2431513622825893890,
+                "appmsg_album_infos": [],
+                "id": "2431513622825893890",
+                "tagSource": 4,
+                "title": "城投债研究"
+            },
+            {
+                "album_id": 2431514738024218626,
+                "appmsg_album_infos": [],
+                "id": "2431514738024218626",
+                "tagSource": 4,
+                "title": "产业债研究"
+            }
+        ],
+        "appmsgid": 2247504862,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGnqp0W91eSJ8T9TqbPGl1Zyk3VSsJiaOSWKCNicnjM9qwljrbGY9y4BMg2WlSaeicicwvFCCOTJndwo7w/0?wx_fmt=jpeg",
+        "create_time": 1725889133,
+        "digest": "这次调整的价值在于给予我们更好的研究窗口来观察在极端情况下信用债流动性变化的表现，以便为后续信用债配置提供参考",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504862&idx=1&sn=2dff3a057cf6c90bf6d61c8909f46a5a&chksm=fdbceaf0cacb63e6797377aa7dc16930a3b609f5b6ae45b73ca1cd1c7560bdb208339f117c30#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 本轮调整行情中信用债流动性表现复盘及启发",
+        "update_time": 1725889133
+    },
+    {
+        "aid": "2247504839_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504839,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGnhLZc5kKTDJbMT2t4zOsRgGywviby4puKCYtdTGlxZRVvmhkMhvq4pX5vYjDYD3pco11yKV1v6qUQ/0?wx_fmt=jpeg",
+        "create_time": 1725370462,
+        "digest": "重点关注8月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504839&idx=1&sn=2f18f249c79824f0b2240a020ffa9559&chksm=fdbceae9cacb63ffe0c19e84a173edaf168751736243116147cf2e38e96cb2d3900c3d585f22#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 金融次级债发行量创21年以来单月新高，农商行次级债利差继续压缩——2024年8月小品种月报",
+        "update_time": 1725370462
+    },
+    {
+        "aid": "2247504818_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 4,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504818,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlDGXUTmpeMqpWY8zYBnuDF5diavM8GA9SeB4OUJZpPj4vdkjhOyC4V97dc8tPfVVZant75ib10tOlw/0?wx_fmt=jpeg",
+        "create_time": 1725282865,
+        "digest": "9月赎回负反馈发生的概率相对8月有所降低，但并未完全解除",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504818&idx=1&sn=2731a3d2a73ecaa2111cb18ccfef4964&chksm=fdbcea9ccacb638a4e4b967eb9ebd45dba9c23c3c0d23bdc1232c02cc059376f0475e324fe09#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 9月赎回负反馈会否卷土重来",
+        "update_time": 1725282864
+    },
+    {
+        "aid": "2247504797_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 4,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504797,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGnbKERDIFF2Oibrqhd4CyOVa91MgEXdILJxOBrDjUQ8PEBnngvicMykz9fQlU4s84vbJukF4TUmWmUg/0?wx_fmt=jpeg",
+        "create_time": 1724677966,
+        "digest": "建议关注近期调整相对显著的同业存单与信用债的配置价值",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504797&idx=1&sn=221472909a1f897593af535b7244617e&chksm=fdbceab3cacb63a5d7c5b87dc5992e3b534822bdd83b5e2a4f2c318311cdbd2472deeb8153af#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 如何看待债市流动性下降与赎回压力",
+        "update_time": 1724677965
+    },
+    {
+        "aid": "2247504779_1",
+        "album_id": "3599419764994605059",
+        "appmsg_album_infos": [
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 1,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504779,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGmuk1fyxSlMwO7JyeuUrro2mNHS4VqnKibc5icrlKsm1htxltK6tic6pEuOWMQpvJtGK0H3H9zhuia3VA/0?wx_fmt=jpeg",
+        "create_time": 1724159838,
+        "digest": "资金面与债券投资监管依然是下阶段债市运行的核心因素",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504779&idx=1&sn=27f43ec4b23297d9ea0b05af555fb64f&chksm=fdbceaa5cacb63b3a3799ee0d95beeeba7ad5d978556567d70212bc0284aefdcb230e94b8b9b#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 关注资金面与债券投资监管",
+        "update_time": 1724159837
+    },
+    {
+        "aid": "2247504758_1",
+        "album_id": "2879038748603236353",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2879038748603236353,
+                "appmsg_album_infos": [],
+                "id": "2879038748603236353",
+                "tagSource": 4,
+                "title": "债市复盘"
+            }
+        ],
+        "appmsgid": 2247504758,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGk438dmJseXaIon8alOfcRxbR2KXcH0W8JQgbcYdGZmH3LdZFqBAdjcZADFWYfW70ZBIzaKHNkJ7w/0?wx_fmt=jpeg",
+        "create_time": 1724071550,
+        "digest": "梳理15年以来的几次赎回潮，分析此次债市调整的相同与不同之处",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504758&idx=1&sn=6f818720ad28c56fd2d15fd26e807502&chksm=fdbcea58cacb634e775c4fa27823a0ee301f9ed4ce643c43061f5accebb7a250fef0068bf124#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 复盘：赎回潮如何演绎——债市复盘系列之九",
+        "update_time": 1724071550
+    },
+    {
+        "aid": "2247504735_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504735,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGnx2m0MAgWbrkORjZRPhmibRn15zeEUvAKlckEiarzlia4ThKITqf6jRiaaqly3cibQrYiaZPJelfKYqU1g/0?wx_fmt=jpeg",
+        "create_time": 1723468197,
+        "digest": "下阶段央行对于资金利率的调控态度将成为债市调整幅度和持续时间的关键因素",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504735&idx=1&sn=d962fa85f504560b99e9c0509779a281&chksm=fdbcea71cacb6367d310c54da41d7b886a188256cf0bc9c62bdb28aa7993bbbcfb8394aa0951#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 下阶段债市的核心因素在于资金面",
+        "update_time": 1723468197
+    },
+    {
+        "aid": "2247504713_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            }
+        ],
+        "appmsgid": 2247504713,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlPPYNiabJEpK6xOiarmh49wIk6LAGeFPcHrR7ibOgVCBiabb4zwTuZlvhdON4tRiaNDuCdUob0RqAb8CQ/0?wx_fmt=jpeg",
+        "create_time": 1723121684,
+        "digest": "截至8月2日，国有、股份、城商、农商行存单发行计划完成比例分别在77%、73%、60%、44%左右",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504713&idx=1&sn=9a11a6863ffd6e23781332ea6f1efabd&chksm=fdbcea67cacb63719245620e1ffea962988cb4d0d84f2dfbd40aec6d138b3c4d56b9992b621a#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 如何看待供给放量下的存单——存单系列报告之八",
+        "update_time": 1723121684
+    },
+    {
+        "aid": "2247504693_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504693,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGnhvLriao8BCO6lZuZrdb5llTibyAZ8VuNicOSJnz83LAok5M8ZAJ0BHF8VAs0V8JlcwxvzUSfW7BDfg/0?wx_fmt=jpeg",
+        "create_time": 1722948521,
+        "digest": "结合目前期限利差的水平，若资金面持续保持宽松，长端的调整空间就不会很大",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504693&idx=1&sn=c483a417566b1f9092b38b1591d4c63d&chksm=fdbcea1bcacb630ddc40f10e9ca7c1af3b2bbbaa997bd66e2bbc42a3d73e939a3fc2e4ad5318#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 |  8月债市存在哪些风险",
+        "update_time": 1722948520
+    },
+    {
+        "aid": "2247504678_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504678,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGm0dbqAx1yQokrb19vaMggPG5aOSI86gibjuz63ibrOTIuwaNoCRicqY8cJz6mS7cBTicZJ8y7tGglw9Q/0?wx_fmt=jpeg",
+        "create_time": 1722861344,
+        "digest": "重点关注7月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504678&idx=1&sn=ae0ef9afdac58a51c3226054b814d2cb&chksm=fdbcea08cacb631e17b568f10b7ba007d64a417739ffd38c26efb6074ada8b66fad0ddc73314#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 农商行次级债挖掘力度增强，ABS换手率创新高——2024年7月小品种月报",
+        "update_time": 1722861344
+    },
+    {
+        "aid": "2247504657_1",
+        "album_id": "2431513622825893890",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431513622825893890,
+                "appmsg_album_infos": [],
+                "id": "2431513622825893890",
+                "tagSource": 4,
+                "title": "城投债研究"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504657,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlva7s4Y40jZ0S1B6YPTz8acRmAACEyQ5CI8ibNwiafwyKUu2zIqeQmNUOn4wuRYxNOtI87ScTFxX2g/0?wx_fmt=jpeg",
+        "create_time": 1722258098,
+        "digest": "在新债期限拉长、票面拉低裹挟下，建议以拉长久期配置为主要方向",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504657&idx=1&sn=24dbd650908c179bd5545e661313118c&chksm=fdbcea3fcacb6329e6a110761667518c176aed0a237a0e54c87c4435b62758f15f82cf6368a6#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 城投融资：中票置换短融成为主流",
+        "update_time": 1722258098
+    },
+    {
+        "aid": "2247504639_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504639,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGmnia4CgNQerlpzyK54dKGrcQUCUHfQC3oAbRaWB4JSOHo4vIaHKfDWXiaJVVc7Mf3z67pP1Qt4FTRg/0?wx_fmt=jpeg",
+        "create_time": 1721651607,
+        "digest": "目前曲线形态陡峭度较为正常，但债券利率与资金利差过低",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504639&idx=1&sn=271b5acaecedf186ebca8b0ce6acb98a&chksm=fdbcebd1cacb62c74526c1ca40e90f2c1c1aaa6433790ec1bb4a08ca167985d837af7d37c769#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 央行资负表「异动」的猜想",
+        "update_time": 1721651607
+    },
+    {
+        "aid": "2247504622_1",
+        "album_id": "2879038748603236353",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2879038748603236353,
+                "appmsg_album_infos": [],
+                "id": "2879038748603236353",
+                "tagSource": 4,
+                "title": "债市复盘"
+            }
+        ],
+        "appmsgid": 2247504622,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGmQV5UhmzM1dmHL4laeiaugHCibNSGr70npictXGtfexXA3HcM01lmNeLwaOibHyBjiaXNOSSexIv0vXfA/0?wx_fmt=jpeg",
+        "create_time": 1721132957,
+        "digest": "如果央行希望维持曲线陡峭，或者希望改变目前债券收益率与资金利差过低的现状，根据历史上曲线陡峭化的表现，对应三种情况",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504622&idx=1&sn=4d7d6ec572668ddaa3ada4494b79b9e7&chksm=fdbcebc0cacb62d627515f8f22092679a146b9c2bbd74d98549c0398a7a11d534af4b009e2eb#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 复盘：陡峭化的收益率曲线如何形成——债市复盘系列之八",
+        "update_time": 1721132956
+    },
+    {
+        "aid": "2247504598_1",
+        "album_id": "2431507719561117707",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504598,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGm2wuYw8fBLgJjOPT70wb9MmBNZd8fY20JD9UFpgypMh9wGkXmzOBBYHsUIpradVVXxZaXCHd6jPA/0?wx_fmt=jpeg",
+        "create_time": 1721045521,
+        "digest": "今年以来，在社融增长动力偏弱的情况下，社融与M2增速之差持续回升，更多与表内存款加速出表现象相关",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504598&idx=1&sn=4dcbbb45e19696b846707126f3be0647&chksm=fdbcebf8cacb62ee99c0685bbd372ca6b5088b77dd8d074068b9c7e865a5ece1b514e544dbff#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 贷款拖累存款，「资金出表」延续",
+        "update_time": 1721045520
+    },
+    {
+        "aid": "2247504579_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504579,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGmiaWXuoelSdUxdcXkrER7iasJ8TfMlLpZ24K6Ea1sCQRzvYsXppU7QmviaM2lwwojK6ibZu51Hiaicguug/0?wx_fmt=jpeg",
+        "create_time": 1720441239,
+        "digest": "持续维持短端宽松+引导长端利率上行的曲线陡峭化，在我国过去的债市中较为罕见",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504579&idx=1&sn=a1ff44fa5956f4966e98925c3c6cda07&chksm=fdbcebedcacb62fb3b08c6e7383d97539f74db0493249b7130516a3e51890c1de21fbf120534#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 对曲线形态的思考",
+        "update_time": 1720441239
+    },
+    {
+        "aid": "2247504559_1",
+        "album_id": "2431512491185897474",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            }
+        ],
+        "appmsgid": 2247504559,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlrE6sBOTQYSfhXWiahzvCgRic2Q4dSYPzlk0ZEWlSTBJnp5YGeiahcaNhUf5zSaOEPqoLLHsH5p6q3Q/0?wx_fmt=jpeg",
+        "create_time": 1720360314,
+        "digest": "随着评级调整集中期的结束，配置窗口已经打开，可逢低布局",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504559&idx=1&sn=bbb587db17768b31ad53baa8057f3690&chksm=fdbceb81cacb6297f4ede85affd36e02ce0d93c216b5c6548350343779c07ba1c045e619e18b#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "转债研究 | 转债市场24年二季度回顾及展望",
+        "update_time": 1720360314
+    },
+    {
+        "aid": "2247504541_1",
+        "album_id": "2431513622825893890",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431513622825893890,
+                "appmsg_album_infos": [],
+                "id": "2431513622825893890",
+                "tagSource": 4,
+                "title": "城投债研究"
+            },
+            {
+                "album_id": 2431514738024218626,
+                "appmsg_album_infos": [],
+                "id": "2431514738024218626",
+                "tagSource": 4,
+                "title": "产业债研究"
+            }
+        ],
+        "appmsgid": 2247504541,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGk3BZOt5KRUeYfxzicFF8NKO84Nfibq8NPD0y50YXNg3JhAahQh6Sw2w0Dk2T5PvHYxGaYCKaFlPHqg/0?wx_fmt=jpeg",
+        "create_time": 1720167928,
+        "digest": "回顾二季度信用牛市，从流动性角度分析城投债市场，并对产业债重点行业进行梳理及展望",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504541&idx=1&sn=25a20787ccf2a6c66c10cb72095ef220&chksm=fdbcebb3cacb62a5b64328378ed81d7a87dfa245a490681ca76bd638a0e41c211c7e38b545f0#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 2024Q2信用债市场回顾与展望",
+        "update_time": 1720167928
+    },
+    {
+        "aid": "2247504478_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504478,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlRG5V9FPjUeOfAoKv9XpC82rlqMK99yPMKTsvH4LQUHVw8ETMQf0qibmwxxAOJtX0DSsD0ZoUSmiag/0?wx_fmt=jpeg",
+        "create_time": 1719923919,
+        "digest": "重点关注6月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504478&idx=1&sn=a23f8c0efe8f7533ec4265dd876ea8ab&chksm=fdbceb70cacb626685b855b29b569a0ecc3ae7ca6a799450272d7b4f9ffb3f3a730947b4e0fb#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 长期限、弱资质、低流动性品种持续被挖掘——2024年6月小品种月报",
+        "update_time": 1719923919
+    },
+    {
+        "aid": "2247504473_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504473,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGkmBDiaMzpxQgRfbdic0mz2z1qlk3q680IcTsa8JKwh7zzXPiau0OGPPh7x3NhbkRibIM3ydDvJm0fw4Q/0?wx_fmt=jpeg",
+        "create_time": 1719839017,
+        "digest": "央行投放节奏与资产供给节奏是7月债市的不确定性",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504473&idx=1&sn=65bce133cd241d05da6d540cea92df95&chksm=fdbceb77cacb6261aefd45f4ff32a50e5c8cbaf5010527b8fcdf88548145464e49378e51ae67#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 7月初资金面值得重点关注",
+        "update_time": 1719839016
+    },
+    {
+        "aid": "2247504439_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            },
+            {
+                "album_id": 3599419764994605059,
+                "appmsg_album_infos": [],
+                "id": "3599419764994605059",
+                "tagSource": 0,
+                "title": "债市周观察"
+            }
+        ],
+        "appmsgid": 2247504439,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGm6p77JWGY17dO90t4ibTTiaJibj6fMozLxMkNg8icA71ywXBfbYN77CCPSZKMiaLnQB3ticutuTu3f9UYA/0?wx_fmt=jpeg",
+        "create_time": 1719236922,
+        "digest": "一是观测央行跨季前后的操作，二是观测监管趋严后理财是否有集中赎回，从而导致卖出债券的压力，三是观测三季度是否会有政府债供给集中放量的可能",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504439&idx=1&sn=6760518bc73c069c360370316b0e7f41&chksm=fdbceb19cacb620f7bc744a45936f5c91f0188994c0d8cd1439da0f190e67d499f6f244fb7b1#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "债市周观察 | 资金面还有哪些潜在风险",
+        "update_time": 1719236922
+    },
+    {
+        "aid": "2247504429_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504429,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGmc4QJa9pTxpyvcNEbGlj6AD1t9ootnA6usdD4bEPEQcicEmSjXRH396l44HDDK20p3ibsWyxzRiaBmg/0?wx_fmt=jpeg",
+        "create_time": 1717503138,
+        "digest": "重点关注5月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504429&idx=1&sn=b353bf2cdde6fbb64c7a6508c08c7c21&chksm=fdbceb03cacb6215e25ffb8d68ddb2c0b6f653c4b1e91da3da0c68a0becb296d0fb67bbd317d#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 银行TLAC债发行落地，城农商行次级债利差大幅压缩——2024年5月小品种月报",
+        "update_time": 1717503138
+    },
+    {
+        "aid": "2247504406_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            }
+        ],
+        "appmsgid": 2247504406,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGkQJM9lZ6eyBeudv1Dz3wQAGdBkflxVc4euBtY4D4MCoxYjRxWnMRicTwnRVcDp6sRkm9VSnQatHhA/0?wx_fmt=jpeg",
+        "create_time": 1715864367,
+        "digest": "报告总结了各类银行资负行为的新特点，对应流动性研究框架也产生了几个新变化",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504406&idx=1&sn=88e1ca3c0f668da3a3ec6fa909745e7d&chksm=fdbceb38cacb622e7ec642fa2e8948ca65b0bc943a413bc6016243bc9165608b647645330687#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 从银行资负行为视角看流动性研究新变化",
+        "update_time": 1715864367
+    },
+    {
+        "aid": "2247504386_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504386,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGn5ia9DKlzkLsbtozIK3n5Zlofk2hGC0q8NQB8jZQHe5YTWgq4Cp4GPo2iadRzDAsFSFbFwGNy6YvCQ/0?wx_fmt=jpeg",
+        "create_time": 1715004260,
+        "digest": "重点关注4月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504386&idx=1&sn=acbe58898b98d7430c9ee41231d528bd&chksm=fdbceb2ccacb623a0310eb317f8cf9ae31ee2bed7233230c7eb7233eac7bc4b3e9dd8de5ed7d#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 银行二级资本债发行放量，交易活跃度有所回落——4月小品种月报",
+        "update_time": 1715004260
+    },
+    {
+        "aid": "2247504359_1",
+        "album_id": "2431514738024218626",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431514738024218626,
+                "appmsg_album_infos": [],
+                "id": "2431514738024218626",
+                "tagSource": 4,
+                "title": "产业债研究"
+            }
+        ],
+        "appmsgid": 2247504359,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGkBp8SsjJB0ujFPO9qaUAl6DwDYYFmOZwVZmpAHFOHuibicTcibtd2s9cO2Vw6dXADchT7ZWucAvCpxw/0?wx_fmt=jpeg",
+        "create_time": 1713790599,
+        "digest": "聚焦超长期信用债历史一级发行、二级估值和当前流动性特征，进行收益情景分析并做跨品种比较",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504359&idx=1&sn=def6287262b3b7cc23f7ca1c5a6db658&chksm=fdbce8c9cacb61dfd9827bd2690efc2d0db259ce28170bfb10c31c788f2a4359c909d2161ba7#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 超长信用债：长端配置品种新选择",
+        "update_time": 1713790599
+    },
+    {
+        "aid": "2247504319_1",
+        "album_id": "2431512491185897474",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431512491185897474,
+                "appmsg_album_infos": [],
+                "id": "2431512491185897474",
+                "tagSource": 4,
+                "title": "转债研究"
+            }
+        ],
+        "appmsgid": 2247504319,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGkQXHcPsPfLlxQUD80HqBAVZPKYxMfrsEbVWDlMujl7LXJOWf92Jv0icE1lYeXnk13tXI00zY5X1CQ/0?wx_fmt=jpeg",
+        "create_time": 1712130549,
+        "digest": "权益市场触底反弹，转债市场跟涨有限；转债策略未见大幅转向，YTM策略有所分化；转债市场净融资为负，优质转债愈发珍贵",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504319&idx=1&sn=fab2a6f393ad46a907d3c75235c7b1a2&chksm=fdbce891cacb6187c48e178a5fb6b1fb2dd7be3fc4b6147d5d85a51f276d4f7162ea71f7620a#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "转债研究 | 转债市场24年一季度回顾及展望",
+        "update_time": 1712130549
+    },
+    {
+        "aid": "2247504302_1",
+        "album_id": "2431513622825893890",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431513622825893890,
+                "appmsg_album_infos": [],
+                "id": "2431513622825893890",
+                "tagSource": 4,
+                "title": "城投债研究"
+            },
+            {
+                "album_id": 2431514738024218626,
+                "appmsg_album_infos": [],
+                "id": "2431514738024218626",
+                "tagSource": 4,
+                "title": "产业债研究"
+            }
+        ],
+        "appmsgid": 2247504302,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGn3fgicvT4UfXriaIgDIAKGC7iceA6T5W2Diciat0G5vLuiaTD1tUEkvbk9y8xhtX9quMHYI5gF7WCcYQHA/0?wx_fmt=jpeg",
+        "create_time": 1712064942,
+        "digest": "整理自2020年以来各地方政府披露的决算和预算执行情况中各类税收的金额数据，并以此分别纵向比较地产相关税收规模变化、横向比较各区域占总税收比例的情况",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504302&idx=1&sn=d7efe5e7b043b8603130e5786e1dc124&chksm=fdbce880cacb61964e594cf69f03e243caa260bd4c2708139358ddbdd7e9a638edc7de638a65#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 2024Q1信用债市场回顾与展望",
+        "update_time": 1712064942
+    },
+    {
+        "aid": "2247504252_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504252,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGm1rPskYCudLBz5V20IXkehNWV2QSb3FpGdyzy33PEKQrickpGk81lCEkibPAzBm59TmnBjU9fNb0Tw/0?wx_fmt=jpeg",
+        "create_time": 1711975947,
+        "digest": "重点关注3月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504252&idx=1&sn=5662e12449a21af68c74bf383265a757&chksm=fdbce852cacb6144d984eb4751451ed2c72e31bafb4c0b7ed65a781b9f2fb19fdcae1c615d36#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 银行永续债发行放量，城投永续长端挖掘力度增大——3月小品种月报",
+        "update_time": 1711975947
+    },
+    {
+        "aid": "2247504205_1",
+        "album_id": "2431227320440160257",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431227320440160257,
+                "appmsg_album_infos": [],
+                "id": "2431227320440160257",
+                "tagSource": 4,
+                "title": "海外研究"
+            },
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            }
+        ],
+        "appmsgid": 2247504205,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGm9AEIvPlddSS4px2dh5SGP0pk9CwqF7XO62jSk1sLPDiallvexBdVFib5LMv6Ic7m6tkgej3PuVbzg/0?wx_fmt=jpeg",
+        "create_time": 1710767083,
+        "digest": "对比来看，近期国内货币政策操作在工具选择方面也颇有扭转操作之意",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504205&idx=1&sn=f2fa3d84810ff40dab5aeeaedd1912e6&chksm=fdbce863cacb6175a92f620b4b50fcd53ad578a777268ef0c03ef5d87724cbf460d8b2dc6248#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 美联储扭转操作对我国债市的启示",
+        "update_time": 1710767082
+    },
+    {
+        "aid": "2247504171_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504171,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlldh38y3tvNsKaENibNmB0QYUAiaH6IQheen37SW8toKev79IbAW8ZBlls3Vdv28pOp06cAo0qamZg/0?wx_fmt=jpeg",
+        "create_time": 1709556086,
+        "digest": "重点关注2月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504171&idx=1&sn=138061d1511dcad731ff31f65e458438&chksm=fdbce805cacb611317b915c4a3fa8bb2735cf2fb77e545465a27e952837a4b9dabd93de958c9#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 二级资本债发行放量，城农商行利差压缩幅度领先——2月小品种月报",
+        "update_time": 1709556086
+    },
+    {
+        "aid": "2247504124_1",
+        "album_id": "2431506346429874180",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431506346429874180,
+                "appmsg_album_infos": [],
+                "id": "2431506346429874180",
+                "tagSource": 4,
+                "title": "流动性分析"
+            },
+            {
+                "album_id": 2431507719561117707,
+                "appmsg_album_infos": [],
+                "id": "2431507719561117707",
+                "tagSource": 4,
+                "title": "机构行为分析"
+            }
+        ],
+        "appmsgid": 2247504124,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGk4ejdlQ98K67Po1O2kNb3DEDj8PIiaRWTyGDksMHmibzOPZchvaTuq969xshumAS18Qo9YuY7bVSmw/0?wx_fmt=jpeg",
+        "create_time": 1709126741,
+        "digest": "分析影响地方债与国债利差变动的各项因素，继而对未来利差走势提供一定参考",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504124&idx=1&sn=4e61285d35c1df2f25ebc02eaa90bd31&chksm=fdbce9d2cacb60c45372cb26002136d22c1b2af8e1dfb6bfca6f33b4ff540579080b86a0c4bf#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "利率研究 | 关注地方政府债配置价值",
+        "update_time": 1709126741
+    },
+    {
+        "aid": "2247504086_1",
+        "album_id": "2431509492627636228",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2431509492627636228,
+                "appmsg_album_infos": [],
+                "id": "2431509492627636228",
+                "tagSource": 4,
+                "title": "小品种月报"
+            }
+        ],
+        "appmsgid": 2247504086,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGl2FL5A0NhiajpzdUSOMQWkV5B7loibfZocibzc5vCrjt3MqYUpluZSPmQk8sLdjkQliaOTfbVLI2gtlQ/0?wx_fmt=jpeg",
+        "create_time": 1707140254,
+        "digest": "重点关注1月份企业永续债、金融永续债、金融次级债和ABS的债券市场动态",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504086&idx=1&sn=0812ca6af572725eeabce97615d36335&chksm=fdbce9f8cacb60eea26e7da48ccb59c83ee99502c87d433e21764fb972e187377ff48e13a1be#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 一级融资放缓，收益率加速单边下行——1月小品种月报",
+        "update_time": 1707140254
+    },
+    {
+        "aid": "2247504039_1",
+        "album_id": "2618493821415079937",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2618493821415079937,
+                "appmsg_album_infos": [],
+                "id": "2618493821415079937",
+                "tagSource": 4,
+                "title": "产品研究"
+            },
+            {
+                "album_id": 2431514738024218626,
+                "appmsg_album_infos": [],
+                "id": "2431514738024218626",
+                "tagSource": 4,
+                "title": "产业债研究"
+            },
+            {
+                "album_id": 2431513622825893890,
+                "appmsg_album_infos": [],
+                "id": "2431513622825893890",
+                "tagSource": 4,
+                "title": "城投债研究"
+            }
+        ],
+        "appmsgid": 2247504039,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGkXDVkYEOnLlpMWvhnUu237jt8X6WnavwQ2ibgkcvzRK5rS85aV3yI55xEqa9zcEnRl8bgcsMXRonA/0?wx_fmt=jpeg",
+        "create_time": 1706792721,
+        "digest": "在分别对城投债、产业债和银行二永债进行总量维度上的分层统计分析后，还将进一步挖掘各基金披露的前五大重仓债名称及持仓规模信息，从而得到基金对个券的具体操作方向",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247504039&idx=1&sn=8857f983ef21d3b21c348f525938ff13&chksm=fdbce989cacb609f40cf168f9a45d136443d796dd1d20f2d67edc0a7e7af287c35811bec35f4#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "信用研究 | 城投下沉力度增强，二永债延续重点配置——2023Q4基金重仓信用债分析",
+        "update_time": 1706792721
+    },
+    {
+        "aid": "2247503995_1",
+        "album_id": "2618493821415079937",
+        "appmsg_album_infos": [
+            {
+                "album_id": 2618493821415079937,
+                "appmsg_album_infos": [],
+                "id": "2618493821415079937",
+                "tagSource": 4,
+                "title": "产品研究"
+            }
+        ],
+        "appmsgid": 2247503995,
+        "checking": 0,
+        "copyright_type": 1,
+        "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/fjDC4mxcCGlCMKd9gRq9wUhShOwT4DQbuZPRkNIpnxc5kylGNicYASTY0tENlb9ia45iaDbV4ASv5QnxxgMwnqDRA/0?wx_fmt=jpeg",
+        "create_time": 1705494738,
+        "digest": "从绿色债券市场、ESG债券基金产品、ESG债券理财产品三个角度回顾2023年",
+        "has_red_packet_cover": 0,
+        "is_pay_subscribe": 0,
+        "item_show_type": 0,
+        "itemidx": 1,
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU4MjAzNzU2OQ==&mid=2247503995&idx=1&sn=2987fa51fcd96edecb2ac5467dd3ae68&chksm=fdbce955cacb60436e038105795db8892a67c3f50bd55e8e7023052fab7d81c82894d7ec60aa#rd",
+        "media_duration": "0:00",
+        "mediaapi_publish_status": 0,
+        "pay_album_info": {
+            "appmsg_album_infos": []
+        },
+        "tagid": [],
+        "title": "产品&利率研究 | 2023年绿债及ESG固收产品回顾",
+        "update_time": 1705494738
+    }
+]
